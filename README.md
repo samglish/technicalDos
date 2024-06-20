@@ -1,2 +1,2 @@
-# technical Dos attacks
+# Technical Dos attacks
 Ethical Hacking - Dos attacks on different services.
