@@ -58,4 +58,14 @@ let's see ip adress
 ```
 dmitry samglishinc.000webhostapp.com
 ```
+```
+Deepmagic Information Gathering Tool
+"There be some deep magic going on"
+
+HostIP:145.14.145.210
+HostName:samglishinc.000webhostapp.com
+
+Gathered Inet-whois information for 145.14.145.210
+---------------------------------
+```
 
