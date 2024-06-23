@@ -110,3 +110,4 @@ INFO: Can't import PyX. Won't be able to use psdump() or pdfdump().
                                        using IPython 8.18.1
 >>> 
 ```
+We will send a packet with a TTL 0, it is a malformed packet which will create confusion for the target server then a service denial we will send millions of requests.
