@@ -55,6 +55,7 @@ how to use : `thc-ssl-dos ip_target --accept`
 
 i want to test my website: 
 let's see ip adress
+run this command
 ```
 dmitry samglishinc.000webhostapp.com
 ```
