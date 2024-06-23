@@ -59,6 +59,7 @@ run this command
 ```
 dmitry samglishinc.000webhostapp.com
 ```
+```
 Deepmagic Information Gathering Tool
 "There be some deep magic going on"
 
@@ -67,5 +68,5 @@ HostName:samglishinc.000webhostapp.com
 
 Gathered Inet-whois information for 145.14.145.210
 ---------------------------------
-
+```
 
