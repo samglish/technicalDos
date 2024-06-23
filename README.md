@@ -71,7 +71,7 @@ HostName:samglishinc.000webhostapp.com
 Gathered Inet-whois information for 145.14.145.210
 ---------------------------------
 ```
-
+let's test the tools.
 ```
 thc-ssl-dos 145.14.145.210 --accept
 ```
