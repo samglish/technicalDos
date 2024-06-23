@@ -14,3 +14,4 @@ Ethical Hacking - Dos attacks on different services.
  * Attacks based on packet volume.
  * Protocol-based attacks.
  * Attacks based on the application layer.
+## The tools we are going to use
