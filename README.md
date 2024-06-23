@@ -121,6 +121,7 @@ ifconfig
 `adresse cible` : 
 `malformed packet` : use TTL 0
 `packet volume`: 2000
+`interface` : wlo1
 ```bash
-send(dst="ip", ttl=0)/TCP(),iface="",count=2000)
+send(dst="145.14.145.210", ttl=0)/TCP(),iface="wlo1",count=2000)
 ```
