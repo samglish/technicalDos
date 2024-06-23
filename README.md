@@ -19,4 +19,5 @@ Ethical Hacking - Dos attacks on different services.
  * THC SSL DOS
  * Scapy 
  * Slowloris
- * http://www.upordown.org/
+ * https://upordown.ultrawebhosting.com/
+
