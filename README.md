@@ -86,3 +86,27 @@ Handshakes 4[4.310 h/s], 2 Conn, 0 Err
 ```bash
 scapy
 ```
+Output
+```
+INFO: Can't import PyX. Won't be able to use psdump() or pdfdump().
+                                      
+                     aSPY//YASa       
+             apyyyyCY//////////YCa       |
+            sY//////YSpcs  scpCY//Pp     | Welcome to Scapy
+ ayp ayyyyyyySCP//Pp           syY//C    | Version 2.4.4
+ AYAsAYYYYYYYY///Ps              cY//S   |
+         pCCCCY//p          cSSps y//Y   | https://github.com/secdev/scapy
+         SPPPP///a          pP///AC//Y   |
+              A//A            cyP////C   | Have fun!
+              p///Ac            sC///a   |
+              P////YCpc           A//A   | Craft packets like I craft my beer.
+       scccccp///pSP///p          p//Y   |               -- Jean De Clerck
+      sY/////////y  caa           S//P   |
+       cayCyayP//Ya              pY/Ya
+        sY/PsY////YCc          aC//Yp 
+         sc  sccaCY//PCypaapyCP//YSs  
+                  spCPY//////YPSps    
+                       ccaacs         
+                                       using IPython 8.18.1
+>>> 
+```
