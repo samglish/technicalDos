@@ -164,4 +164,8 @@ cd Loic/
 ```
 git clone https://github.com/nicolargo/loicinstaller.git
 ```
+```
+cd loicinstaller/
+```
+
 
