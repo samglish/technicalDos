@@ -28,3 +28,4 @@ Ethical Hacking - Dos attacks on different services.
 I will check if my site is available or not following service denial attacks.
 https://samglishinc.000webhostapp.com
 <img src="test.png" width="100%">
+we see that the website is available.
