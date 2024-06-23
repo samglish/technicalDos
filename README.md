@@ -87,7 +87,7 @@ Handshakes 4[4.310 h/s], 2 Conn, 0 Err
 scapy
 ```
 Output
-```
+```bash
 INFO: Can't import PyX. Won't be able to use psdump() or pdfdump().
                                       
                      aSPY//YASa       
