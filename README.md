@@ -170,4 +170,8 @@ cd loicinstaller/
 ```
 ./loic.sh
 ```
+Usage: ./loic.sh <install|update|run>
+```
+./loic.sh install
+```
 
