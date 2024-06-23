@@ -51,3 +51,4 @@ Greetingz: the french underground
   -h      help
   -l <n>  Limit parallel connections [default: 400]
 ```
+how to use : `thc-ssl-dos ip_target --accept`
