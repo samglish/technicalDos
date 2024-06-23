@@ -52,3 +52,10 @@ Greetingz: the french underground
   -l <n>  Limit parallel connections [default: 400]
 ```
 how to use : `thc-ssl-dos ip_target --accept`
+
+i want to test my website: 
+let's see ip adress
+```
+dmitry samglishinc.000webhostapp.com
+```
+
