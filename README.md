@@ -11,6 +11,6 @@ Ethical Hacking - Dos attacks on different services.
 
 ## DOS/DDOS categories
  * Session abuse.
- * Volume-based attacks.
+ * Attacks based on packet volume.
  * Protocol-based attacks.
  * Attacks based on the application layer.
