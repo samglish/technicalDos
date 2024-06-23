@@ -118,31 +118,9 @@ see your ip_adress and nerwork interface
 ```bash
 ifconfig
 ```
-Output
-```
-enp0s25: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
-        ether 48:0f:cf:26:c0:3a  txqueuelen 1000  (Ethernet)
-        RX packets 0  bytes 0 (0.0 B)
-        RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 0  bytes 0 (0.0 B)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-        device interrupt 20  memory 0xc0700000-c0720000  
-
-lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
-        inet 127.0.0.1  netmask 255.0.0.0
-        inet6 ::1  prefixlen 128  scopeid 0x10<host>
-        loop  txqueuelen 1000  (Boucle locale)
-        RX packets 11548  bytes 701144 (684.7 KiB)
-        RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 11548  bytes 701144 (684.7 KiB)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-
-wlo1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
-        inet 172.20.10.4  netmask 255.255.255.240  broadcast 172.20.10.15
-        inet6 fe80::67e4:949a:cdff:e203  prefixlen 64  scopeid 0x20<link>
-        ether cc:3d:82:a9:4a:52  txqueuelen 1000  (Ethernet)
-        RX packets 370444  bytes 420059777 (400.6 MiB)
-        RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 335837  bytes 72057554 (68.7 MiB)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+`adresse cible` : 
+`malformed packet` : use TTL 0
+`packet volume`: 2000
+```bash
+send(dst="ip", ttl=0)/TCP(),iface="",count=2000)
 ```
