@@ -75,7 +75,7 @@ Gathered Inet-whois information for 145.14.145.210
 ```bash
 thc-ssl-dos 145.14.145.210 --accept
 ```
-
+Output
 ```
 Waiting for script kiddies to piss off................
 The force is with those who read the source...
