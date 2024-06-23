@@ -151,4 +151,17 @@ Sent 2000 packets.
 ```
 for more information visit: http://sdz.tdct.org/sdz/manipulez-les-paquets-reseau-avec-scapy.html
 
-##
+## Low Orbit Ion Cannon (LOIC)
+Install LOIC
+
+create folder `Loic`
+```
+mkdir Loic
+```
+```
+cd Loic/
+```
+```
+git clone https://github.com/nicolargo/loicinstaller.git
+```
+
