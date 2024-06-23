@@ -15,3 +15,8 @@ Ethical Hacking - Dos attacks on different services.
  * Protocol-based attacks.
  * Attacks based on the application layer.
 ## The tools we are going to use
+ * Low Orbit Ion Cannon
+ * THC SSL DOS
+ * Scapy 
+ * Slowloris
+ * http://www.upordown.org/
