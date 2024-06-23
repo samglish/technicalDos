@@ -72,3 +72,7 @@ Gathered Inet-whois information for 145.14.145.210
 ---------------------------------
 ```
 
+```
+thc-ssl-dos 145.14.145.210 --accept
+```
+
