@@ -7,4 +7,6 @@ Ethical Hacking - Dos attacks on different services.
 * Nmap NSE
 * Exploit database
 * Scapy
+<hr>
 
+## DOS/DDOS categories
