@@ -22,5 +22,5 @@ Ethical Hacking - Dos attacks on different services.
  * https://upordown.ultrawebhosting.com/
  <hr>
 
- ## Let's to test
+ ## let's try it
 
