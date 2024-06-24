@@ -174,4 +174,9 @@ Usage: ./loic.sh <install|update|run>
 ```
 ./loic.sh install
 ```
-
+run
+```
+./loic.sh run
+```
+<img src="L1.png" width="80%">
+<img src="L2.png" width="80%">
