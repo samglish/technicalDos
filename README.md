@@ -245,4 +245,3 @@ siege samglishinc.000webhostapp.com
 	"shortest_transaction":		        0.35
 }
 ```
-
