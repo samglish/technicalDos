@@ -23,14 +23,14 @@ Ethical Hacking - Dos attacks on different services.
  <hr>
 
  # let's try it
- ## 1st tool is a website : https://upordown.ultrawebhosting.com/
+ # 1st tool is a website : https://upordown.ultrawebhosting.com/
 <img src="ultra.png" width="100%">
 I will check if my site is available or not following service denial attacks.
 https://samglishinc.000webhostapp.com
 <img src="test.png" width="100%">
 we see that the website is available.
 
-## THC SSL DOS
+# THC SSL DOS
 ```bash
 thc-ssl-dos 
 ```
@@ -82,7 +82,7 @@ The force is with those who read the source...
 Handshakes 0 [0.00 h/s], 1 Conn, 0 Err
 Handshakes 4[4.310 h/s], 2 Conn, 0 Err
 ```
-## Scapy
+# Scapy
 ```bash
 scapy
 ```
@@ -151,7 +151,7 @@ Sent 2000 packets.
 ```
 for more information visit: http://sdz.tdct.org/sdz/manipulez-les-paquets-reseau-avec-scapy.html
 
-## Low Orbit Ion Cannon (LOIC)
+# Low Orbit Ion Cannon (LOIC)
 Install LOIC
 
 create folder `Loic`
@@ -181,7 +181,7 @@ run
 <img src="L1.png" width="80%">
 <img src="L2.png" width="80%">
 
-## siege
+# siege
 ```bash
 siege
 ```
