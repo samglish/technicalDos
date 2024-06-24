@@ -230,4 +230,19 @@ FOR A PARTICULAR PURPOSE.
 ```bash
 siege samglishinc.000webhostapp.com
 ```
+```bash
+{	"transactions":			        9842,
+	"availability":			       99.93,
+	"elapsed_time":			      442.90,
+	"data_transferred":		        9.92,
+	"response_time":		        1.06,
+	"transaction_rate":		       22.22,
+	"throughput":			        0.02,
+	"concurrency":			       23.49,
+	"successful_transactions":	        7646,
+	"failed_transactions":		           7,
+	"longest_transaction":		       38.89,
+	"shortest_transaction":		        0.35
+}
+```
 
